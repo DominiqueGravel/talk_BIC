@@ -1,0 +1,73 @@
+%------------------
+INTRODUCTION
+
+- Distribution anticipée de l'érable à sucre en 2100
+
+- Problèmes des SDMs
+
+- Approche actuelle au MRN
+
+- Formulation du problème
+
+%------------------
+OBJECTIF
+
+- Objectif
+
+%------------------
+CONTEXTE THÉORIQUE
+
+- Limites de distribution
+	- Niche
+	- Migration
+	- Métapopulation
+
+- Théorie sur les vitesse de migration
+
+- États stables alternatifs et changements abruptes
+
+- Distribution de fréquence de l'érable à sucre en fonction du climat
+ 
+%------------------
+PROJET
+
+- Volet 1
+- Volet 2
+- Volet 3
+- Volet 4
+- Partenaires
+
+%------------------
+MÉTHODES
+
+- Base de données intégrée
+
+- Larges parcelles permanentes: carte de localisation
+
+- Protocole 
+
+- Localisation sur le Pic Champlain
+
+- Distribution des arbres sur le Pic Champlain
+	- liste des espèces
+
+%------------------
+RÉSULTATS
+
+- Description de la structure du modèle
+
+- Relation entre colonisation, extinction et température
+
+- Distribution attendue à l'équilibre en fonction de la température
+
+- Déplacement de la distribution avec un changement climatique 
+
+- Simulation stochastique sur le Pic Champlain
+	- série temporelle
+	- variabilité (early warning signs?)
+	
+%------------------
+DISCUSSION
+
+
+
