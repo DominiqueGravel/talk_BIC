@@ -2,6 +2,6 @@
 \beamer@sectionintoc {1}{Introduction}{2}{0}{1}
 \beamer@sectionintoc {2}{Th\IeC {\'e}orie}{9}{0}{2}
 \beamer@sectionintoc {3}{Projet}{11}{0}{3}
-\beamer@sectionintoc {4}{M\IeC {\'e}thodes}{18}{0}{4}
-\beamer@sectionintoc {5}{Exemple}{22}{0}{5}
-\beamer@sectionintoc {6}{Discussion}{28}{0}{6}
+\beamer@sectionintoc {4}{M\IeC {\'e}thodes}{19}{0}{4}
+\beamer@sectionintoc {5}{Exemple}{23}{0}{5}
+\beamer@sectionintoc {6}{Discussion}{29}{0}{6}

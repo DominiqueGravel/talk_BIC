@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  12 JUN 2014 05:40
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  12 JUN 2014 06:06
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1566,43 +1566,43 @@ Overfull \hbox (205.02434pt too wide) has occurred while \output is active
 [16
 
  <./strigul.pdf> <./markov.pdf>]
+<sdm_integration.pdf, id=341, 1084.05pt x 722.7pt>
+File: sdm_integration.pdf Graphic file (type pdf)
+ <use sdm_integration.pdf>
+Package pdftex.def Info: sdm_integration.pdf used on input line 244.
+(pdftex.def)             Requested size: 231.99103pt x 154.65918pt.
+
 Overfull \hbox (205.02434pt too wide) has occurred while \output is active
  [] [] [] [] [] [] [] [] [] 
  []
 
 [17
 
-]
+ <./sdm_integration.pdf>]
 Overfull \hbox (205.02434pt too wide) has occurred while \output is active
  [] [] [] [] [] [] [] [] [] 
  []
 
 [18
 
-] <carte_parcelles.pdf, id=364, 1033.61156pt x 611.28375pt>
-File: carte_parcelles.pdf Graphic file (type pdf)
-
-<use carte_parcelles.pdf>
-Package pdftex.def Info: carte_parcelles.pdf used on input line 291.
-(pdftex.def)             Requested size: 217.9165pt x 128.88133pt.
-
-Overfull \hbox (18.17998pt too wide) in paragraph at lines 291--291
- [] 
- []
-
-
+]
 Overfull \hbox (205.02434pt too wide) has occurred while \output is active
  [] [] [] [] [] [] [] [] [] 
  []
 
 [19
 
- <./carte_parcelles.pdf>] <carte_bic.pdf, id=385, 606.10443pt x 289.08pt>
-File: carte_bic.pdf Graphic file (type pdf)
+] <carte_parcelles.pdf, id=494, 1033.61156pt x 611.28375pt>
+File: carte_parcelles.pdf Graphic file (type pdf)
 
-<use carte_bic.pdf>
-Package pdftex.def Info: carte_bic.pdf used on input line 299.
-(pdftex.def)             Requested size: 270.21967pt x 128.88133pt.
+<use carte_parcelles.pdf>
+Package pdftex.def Info: carte_parcelles.pdf used on input line 300.
+(pdftex.def)             Requested size: 217.9165pt x 128.88133pt.
+
+Overfull \hbox (18.17998pt too wide) in paragraph at lines 300--300
+ [] 
+ []
+
 
 Overfull \hbox (205.02434pt too wide) has occurred while \output is active
  [] [] [] [] [] [] [] [] [] 
@@ -1610,23 +1610,12 @@ Overfull \hbox (205.02434pt too wide) has occurred while \output is active
 
 [20
 
- <./carte_bic.pdf>] <carte_arbres.pdf, id=405, 611.88597pt x 425.91121pt>
-File: carte_arbres.pdf Graphic file (type pdf)
+ <./carte_parcelles.pdf>] <carte_bic.pdf, id=514, 606.10443pt x 289.08pt>
+File: carte_bic.pdf Graphic file (type pdf)
 
-<use carte_arbres.pdf>
-Package pdftex.def Info: carte_arbres.pdf used on input line 317.
-(pdftex.def)             Requested size: 185.15442pt x 128.88133pt.
-
-Overfull \hbox (0.77863pt too wide) in paragraph at lines 317--317
- [] 
- []
-
-<tableau_especes.png, id=406, 272.6988pt x 334.3692pt>
-File: tableau_especes.png Graphic file (type png)
-
-<use tableau_especes.png>
-Package pdftex.def Info: tableau_especes.png used on input line 317.
-(pdftex.def)             Requested size: 105.1121pt x 128.88133pt.
+<use carte_bic.pdf>
+Package pdftex.def Info: carte_bic.pdf used on input line 308.
+(pdftex.def)             Requested size: 270.21967pt x 128.88133pt.
 
 Overfull \hbox (205.02434pt too wide) has occurred while \output is active
  [] [] [] [] [] [] [] [] [] 
@@ -1634,30 +1623,42 @@ Overfull \hbox (205.02434pt too wide) has occurred while \output is active
 
 [21
 
- <./carte_arbres.pdf> <./tableau_especes.png>]
+ <./carte_bic.pdf>] <carte_arbres.pdf, id=534, 611.88597pt x 425.91121pt>
+File: carte_arbres.pdf Graphic file (type pdf)
+
+<use carte_arbres.pdf>
+Package pdftex.def Info: carte_arbres.pdf used on input line 326.
+(pdftex.def)             Requested size: 185.15442pt x 128.88133pt.
+
+Overfull \hbox (0.77863pt too wide) in paragraph at lines 326--326
+ [] 
+ []
+
+<tableau_especes.png, id=535, 272.6988pt x 334.3692pt>
+File: tableau_especes.png Graphic file (type png)
+
+<use tableau_especes.png>
+Package pdftex.def Info: tableau_especes.png used on input line 326.
+(pdftex.def)             Requested size: 105.1121pt x 128.88133pt.
+
 Overfull \hbox (205.02434pt too wide) has occurred while \output is active
  [] [] [] [] [] [] [] [] [] 
  []
 
 [22
 
-] <model.pdf, id=439, 243.30899pt x 242.3454pt>
-File: model.pdf Graphic file (type pdf)
- <use model.pdf>
-Package pdftex.def Info: model.pdf used on input line 338.
-(pdftex.def)             Requested size: 155.27171pt x 154.65918pt.
-
+ <./carte_arbres.pdf> <./tableau_especes.png>]
 Overfull \hbox (205.02434pt too wide) has occurred while \output is active
  [] [] [] [] [] [] [] [] [] 
  []
 
 [23
 
- <./model.pdf>] <SDM.pdf, id=459, 577.15625pt x 432.61626pt>
-File: SDM.pdf Graphic file (type pdf)
- <use SDM.pdf>
-Package pdftex.def Info: SDM.pdf used on input line 354.
-(pdftex.def)             Requested size: 137.55159pt x 103.10349pt.
+] <model.pdf, id=568, 243.30899pt x 242.3454pt>
+File: model.pdf Graphic file (type pdf)
+ <use model.pdf>
+Package pdftex.def Info: model.pdf used on input line 347.
+(pdftex.def)             Requested size: 155.27171pt x 154.65918pt.
 
 Overfull \hbox (205.02434pt too wide) has occurred while \output is active
  [] [] [] [] [] [] [] [] [] 
@@ -1665,16 +1666,10 @@ Overfull \hbox (205.02434pt too wide) has occurred while \output is active
 
 [24
 
- <./SDM.pdf>]
+ <./model.pdf>] <SDM.pdf, id=588, 577.15625pt x 432.61626pt>
 File: SDM.pdf Graphic file (type pdf)
  <use SDM.pdf>
-Package pdftex.def Info: SDM.pdf used on input line 374.
-(pdftex.def)             Requested size: 137.55159pt x 103.10349pt.
- <SDMeq.pdf, id=478, 577.15625pt x 432.61626pt>
-File: SDMeq.pdf Graphic file (type pdf)
-
-<use SDMeq.pdf>
-Package pdftex.def Info: SDMeq.pdf used on input line 374.
+Package pdftex.def Info: SDM.pdf used on input line 363.
 (pdftex.def)             Requested size: 137.55159pt x 103.10349pt.
 
 Overfull \hbox (205.02434pt too wide) has occurred while \output is active
@@ -1683,17 +1678,17 @@ Overfull \hbox (205.02434pt too wide) has occurred while \output is active
 
 [25
 
- <./SDMeq.pdf>] <CC_MF.pdf, id=498, 577.15625pt x 432.61626pt>
-File: CC_MF.pdf Graphic file (type pdf)
+ <./SDM.pdf>]
+File: SDM.pdf Graphic file (type pdf)
+ <use SDM.pdf>
+Package pdftex.def Info: SDM.pdf used on input line 383.
+(pdftex.def)             Requested size: 137.55159pt x 103.10349pt.
+ <SDMeq.pdf, id=608, 577.15625pt x 432.61626pt>
+File: SDMeq.pdf Graphic file (type pdf)
 
-<use CC_MF.pdf>
-Package pdftex.def Info: CC_MF.pdf used on input line 406.
-(pdftex.def)             Requested size: 171.94168pt x 128.88133pt.
-
-Overfull \hbox (18.29675pt too wide) in paragraph at lines 406--406
- [] 
- []
-
+<use SDMeq.pdf>
+Package pdftex.def Info: SDMeq.pdf used on input line 383.
+(pdftex.def)             Requested size: 137.55159pt x 103.10349pt.
 
 Overfull \hbox (205.02434pt too wide) has occurred while \output is active
  [] [] [] [] [] [] [] [] [] 
@@ -1701,35 +1696,15 @@ Overfull \hbox (205.02434pt too wide) has occurred while \output is active
 
 [26
 
- <./CC_MF.pdf>] <largeplot_2015.pdf, id=517, 215.80624pt x 1083.04625pt>
-File: largeplot_2015.pdf Graphic file (type pdf)
+ <./SDMeq.pdf>] <CC_MF.pdf, id=627, 577.15625pt x 432.61626pt>
+File: CC_MF.pdf Graphic file (type pdf)
 
-<use largeplot_2015.pdf>
-Package pdftex.def Info: largeplot_2015.pdf used on input line 436.
-(pdftex.def)             Requested size: 41.08922pt x 206.21092pt.
+<use CC_MF.pdf>
+Package pdftex.def Info: CC_MF.pdf used on input line 415.
+(pdftex.def)             Requested size: 171.94168pt x 128.88133pt.
 
-<largeplot_2035.pdf, id=518, 215.80624pt x 861.2175pt>
-File: largeplot_2035.pdf Graphic file (type pdf)
-
-<use largeplot_2035.pdf>
-Package pdftex.def Info: largeplot_2035.pdf used on input line 436.
-(pdftex.def)             Requested size: 51.67271pt x 206.21092pt.
-
-<largeplot_2055.pdf, id=519, 215.80624pt x 1083.04625pt>
-File: largeplot_2055.pdf Graphic file (type pdf)
-
-<use largeplot_2055.pdf>
-Package pdftex.def Info: largeplot_2055.pdf used on input line 436.
-(pdftex.def)             Requested size: 41.08922pt x 206.21092pt.
-
-<largeplot_2095.pdf, id=520, 215.80624pt x 1083.04625pt>
-File: largeplot_2095.pdf Graphic file (type pdf)
-
-<use largeplot_2095.pdf>
-Package pdftex.def Info: largeplot_2095.pdf used on input line 436.
-(pdftex.def)             Requested size: 41.08922pt x 206.21092pt.
-
-Overfull \vbox (4.95435pt too high) detected at line 436
+Overfull \hbox (18.29675pt too wide) in paragraph at lines 415--415
+ [] 
  []
 
 
@@ -1739,13 +1714,37 @@ Overfull \hbox (205.02434pt too wide) has occurred while \output is active
 
 [27
 
- <./largeplot_2015.pdf> <./largeplot_2035.pdf> <./largeplot_2055.pdf> <./largep
-lot_2095.pdf>] <scheffer.jpg, id=559, 377.91188pt x 393.72093pt>
-File: scheffer.jpg Graphic file (type jpg)
+ <./CC_MF.pdf>] <largeplot_2015.pdf, id=646, 215.80624pt x 1083.04625pt>
+File: largeplot_2015.pdf Graphic file (type pdf)
 
-<use scheffer.jpg>
-Package pdftex.def Info: scheffer.jpg used on input line 500.
-(pdftex.def)             Requested size: 148.44606pt x 154.65918pt.
+<use largeplot_2015.pdf>
+Package pdftex.def Info: largeplot_2015.pdf used on input line 445.
+(pdftex.def)             Requested size: 41.08922pt x 206.21092pt.
+
+<largeplot_2035.pdf, id=647, 215.80624pt x 861.2175pt>
+File: largeplot_2035.pdf Graphic file (type pdf)
+
+<use largeplot_2035.pdf>
+Package pdftex.def Info: largeplot_2035.pdf used on input line 445.
+(pdftex.def)             Requested size: 51.67271pt x 206.21092pt.
+
+<largeplot_2055.pdf, id=648, 215.80624pt x 1083.04625pt>
+File: largeplot_2055.pdf Graphic file (type pdf)
+
+<use largeplot_2055.pdf>
+Package pdftex.def Info: largeplot_2055.pdf used on input line 445.
+(pdftex.def)             Requested size: 41.08922pt x 206.21092pt.
+
+<largeplot_2095.pdf, id=649, 215.80624pt x 1083.04625pt>
+File: largeplot_2095.pdf Graphic file (type pdf)
+
+<use largeplot_2095.pdf>
+Package pdftex.def Info: largeplot_2095.pdf used on input line 445.
+(pdftex.def)             Requested size: 41.08922pt x 206.21092pt.
+
+Overfull \vbox (4.95435pt too high) detected at line 445
+ []
+
 
 Overfull \hbox (205.02434pt too wide) has occurred while \output is active
  [] [] [] [] [] [] [] [] [] 
@@ -1753,14 +1752,21 @@ Overfull \hbox (205.02434pt too wide) has occurred while \output is active
 
 [28
 
- <./scheffer.jpg>]
+ <./largeplot_2015.pdf> <./largeplot_2035.pdf> <./largeplot_2055.pdf> <./largep
+lot_2095.pdf>] <scheffer.jpg, id=688, 377.91188pt x 393.72093pt>
+File: scheffer.jpg Graphic file (type jpg)
+
+<use scheffer.jpg>
+Package pdftex.def Info: scheffer.jpg used on input line 509.
+(pdftex.def)             Requested size: 148.44606pt x 154.65918pt.
+
 Overfull \hbox (205.02434pt too wide) has occurred while \output is active
  [] [] [] [] [] [] [] [] [] 
  []
 
 [29
 
-]
+ <./scheffer.jpg>]
 Overfull \hbox (205.02434pt too wide) has occurred while \output is active
  [] [] [] [] [] [] [] [] [] 
  []
@@ -1775,6 +1781,27 @@ Overfull \hbox (205.02434pt too wide) has occurred while \output is active
 [31
 
 ]
+Overfull \hbox (205.02434pt too wide) has occurred while \output is active
+ [] [] [] [] [] [] [] [] [] 
+ []
+
+[32
+
+]
+Overfull \hbox (205.02434pt too wide) has occurred while \output is active
+ [] [] [] [] [] [] [] [] [] 
+ []
+
+[33
+
+]
+Overfull \hbox (205.02434pt too wide) has occurred while \output is active
+ [] [] [] [] [] [] [] [] [] 
+ []
+
+[34
+
+]
 \tf@nav=\write7
 \openout7 = `Gravel_QUICC-FOR.nav'.
 
@@ -1784,20 +1811,20 @@ Overfull \hbox (205.02434pt too wide) has occurred while \output is active
 \tf@snm=\write9
 \openout9 = `Gravel_QUICC-FOR.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 544.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 544.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 580.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 580.
  (./Gravel_QUICC-FOR.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 544.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 544.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 580.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 580.
 Package rerunfilecheck Info: File `Gravel_QUICC-FOR.out' has not changed.
 (rerunfilecheck)             Checksum: BBDE6878897C489D77B35428B410E6C6;266.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 544.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 580.
  ) 
 Here is how much of TeX's memory you used:
- 26527 strings out of 493633
- 583012 string characters out of 3143378
+ 26540 strings out of 493633
+ 583199 string characters out of 3143378
  721146 words of memory out of 3000000
- 29071 multiletter control sequences out of 15000+200000
+ 29077 multiletter control sequences out of 15000+200000
  33468 words of font info for 63 fonts, out of 3000000 for 9000
  831 hyphenation exceptions out of 8191
  62i,15n,78p,627b,609s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1809,10 +1836,10 @@ l/texlive/2011/texmf-dist/fonts/type1/public/droid/DroidSans.pfb></usr/local/te
 xlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/tex
 live/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/local/texli
 ve/2011/texmf-dist/fonts/type1/public/tex-gyre/qhvb.pfb>
-Output written on Gravel_QUICC-FOR.pdf (31 pages, 19647350 bytes).
+Output written on Gravel_QUICC-FOR.pdf (34 pages, 20189301 bytes).
 PDF statistics:
- 649 PDF objects out of 1000 (max. 8388607)
- 518 compressed objects within 6 object streams
- 68 named destinations out of 1000 (max. 500000)
- 206 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 804 PDF objects out of 1000 (max. 8388607)
+ 640 compressed objects within 7 object streams
+ 74 named destinations out of 1000 (max. 500000)
+ 211 words of extra memory for PDF output out of 10000 (max. 10000000)
 
